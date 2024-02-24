@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9253ac04e7f922429ed760b39045cbb, type: 3}
+  m_Name: Pump Shotgun Item
+  m_EditorClassIdentifier: 
+  _itemName: Pump Shotgun
+  _slotType: 0
+  _itemModelPrefab: {fileID: 8609043620308264096, guid: 73d774ca2f531394b932aa7c84c2ff84, type: 3}
+  _itemDropPrefab: {fileID: 0}
+  _itemSprite: {fileID: 21300000, guid: 7ab9cb01b57093c4c93bd7025a8c2d55, type: 3}
+  _itemLocalTransform:
+    Position: {x: -0.07000272, y: -0.18, z: 0.2904034}
+    Rotation: {x: 0.847, y: 180, z: 0.038}
+    Scale: {x: 1, y: 1, z: 1}
+  _firingSound:
+    _name: Shotgun_Shoot_01
+    _audioClip: {fileID: 8300000, guid: 90dfc3d3acb56ee42ab6699e57265c62, type: 3}
+    _volume: 0.1
+    _pitch: 1
+    _loop: 0
+    _spatialBlend: 0
+    Source: {fileID: 0}
+  _reloadSound:
+    _name: Default_sound_name_01
+    _audioClip: {fileID: 8300000, guid: ed3628732c7a7fd4db62bb27bb7ab9ba, type: 3}
+    _volume: 0.1
+    _pitch: 1
+    _loop: 0
+    _spatialBlend: 0
+    Source: {fileID: 0}
+  _reloadTime: 0.33
+  _magazineSize: 10
+  _maxMagazines: 9
+  _bulletDamage: 25
+  _bulletsPerShot: 10
+  _fireRate: 1.2
+  _gunRange: 100
+  _shootAnimParam: t_PumpShotgun_Shoot
+  _idleAnimParam: 
+  _gunAnimController: {fileID: 9100000, guid: 312e9ffe8b97950448c56bedf4472d29, type: 2}
+  _minGunSpread: 10
+  _maxGunSpread: 30
+  _spreadDecayRate: 90

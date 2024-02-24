@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a04d3c731fd7ac4ba87844508f96dd1, type: 3}
+  m_Name: M4A1 Gun Item - Old
+  m_EditorClassIdentifier: 
+  _itemName: M4A1
+  _slotType: 0
+  _itemModelPrefab: {fileID: 919132149155446097, guid: 2ef1c4ae87420164886518f1dc08147b, type: 3}
+  _itemDropPrefab: {fileID: 2035033166237569415, guid: 3fc8dad7d07147e489a849899991ed23, type: 3}
+  _itemSprite: {fileID: 21300000, guid: fe6ba6adf1806d74891ba05b5606d78f, type: 3}
+  _itemLocalTransform:
+    Position: {x: 0.261, y: -0.123, z: 0.48}
+    Rotation: {x: 0, y: 88.294, z: 0}
+    Scale: {x: 1, y: 1, z: 1}
+  _firingSound:
+    _name: Default_sound_name_01
+    _audioClip: {fileID: 8300000, guid: 90dfc3d3acb56ee42ab6699e57265c62, type: 3}
+    _volume: 1
+    _pitch: 1
+    _loop: 0
+    _spatialBlend: 0
+    Source: {fileID: 0}
+  _reloadSound:
+    _name: Default_sound_name_01
+    _audioClip: {fileID: 8300000, guid: ed3628732c7a7fd4db62bb27bb7ab9ba, type: 3}
+    _volume: 1
+    _pitch: 1
+    _loop: 0
+    _spatialBlend: 0
+    Source: {fileID: 0}
+  _reloadTime: 1.5
+  _magazineSize: 50
+  _maxMagazines: 7
+  _bulletDamage: 33
+  _bulletsPerShot: 1
+  _defaultSpread: 1
+  _maxSpread: 1
+  _fireRate: 11.4
+  _gunRange: 100
+  _gunAnimController: {fileID: 9100000, guid: f0a60e93d588bf040910fe4bb7465438, type: 2}
+  _shootAnimParam: t_M4A1Shoot
+  _idleAnimParam: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a04d3c731fd7ac4ba87844508f96dd1, type: 3}
+  m_Name: AK-47 Item
+  m_EditorClassIdentifier: 
+  _itemName: AK-47
+  _slotType: 0
+  _itemModelPrefab: {fileID: 919132149155446097, guid: a3275db7a918d4d459ffb1d2a6ebf1c8, type: 3}
+  _itemDropPrefab: {fileID: 2337579433848415040, guid: c58a152d3694f274897076dcafcd5592, type: 3}
+  _itemSprite: {fileID: 21300000, guid: 8d7b770aa73f7ed4d89e07337eb6c7b5, type: 3}
+  _itemLocalTransform:
+    Position: {x: 0.28, y: -0.1380001, z: 0.4480157}
+    Rotation: {x: 0, y: 90, z: 0}
+    Scale: {x: 1, y: 1, z: 1.3}
+  _firingSound:
+    _name: Shotgun_02
+    _audioClip: {fileID: 8300000, guid: 90dfc3d3acb56ee42ab6699e57265c62, type: 3}
+    _volume: 0.1
+    _pitch: 1
+    _loop: 0
+    _spatialBlend: 0
+    Source: {fileID: 0}
+  _reloadSound:
+    _name: Shotgun_Reload_01
+    _audioClip: {fileID: 8300000, guid: ed3628732c7a7fd4db62bb27bb7ab9ba, type: 3}
+    _volume: 0.1
+    _pitch: 1
+    _loop: 0
+    _spatialBlend: 0
+    Source: {fileID: 0}
+  _reloadTime: 1.5
+  _magazineSize: 30
+  _maxMagazines: 3
+  _bulletDamage: 58
+  _bulletsPerShot: 1
+  _fireRate: 7
+  _gunRange: 100
+  _shootAnimParam: t_AK47_shoot
+  _idleAnimParam: 
+  _gunAnimController: {fileID: 9100000, guid: 2a737039d87e57441ac3ac2a2452aead, type: 2}
+  _minGunSpread: 2
+  _maxGunSpread: 10
+  _spreadDecayRate: 15

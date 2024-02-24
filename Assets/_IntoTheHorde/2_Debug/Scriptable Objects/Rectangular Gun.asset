@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b90c9ce4971ff9b4ca23bc73d5953000, type: 3}
+  m_Name: Rectangular Gun
+  m_EditorClassIdentifier: 
+  _itemName: Rectangular Gun Test
+  _itemSlot: 2
+  _itemModel: {fileID: 4896361738530071773, guid: 6b5333a9f4a5c1340a33321343bc221c, type: 3}
+  _itemSprite: {fileID: 0}
+  _itemLocalTransform:
+    Position: {x: 0.934, y: 2.564, z: 1.559}
+    Rotation: {x: 82.563, y: 0, z: 0}
+    Scale: {x: 0.43561, y: 0.43561, z: 0.43561}
+  _firingSound:
+    _name: 
+    _audioClip: {fileID: 0}
+    _volume: 0
+    _pitch: 0
+  _reloadSound:
+    _name: 
+    _audioClip: {fileID: 0}
+    _volume: 0
+    _pitch: 0
+  _reloadTime: 1.5
+  _magazineSize: 30
+  _maxMagazines: 3
+  _bulletsPerShot: 1
+  _defaultSpread: 1
+  _maxSpread: 3
+  _fireRate: 7

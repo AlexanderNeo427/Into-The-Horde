@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7feab9d3087c7614aa99d7f219d6e877, type: 3}
+  m_Name: TestGrenadeItem
+  m_EditorClassIdentifier: 
+  _itemName: Test Grenade
+  _slotType: 2
+  _itemModelPrefab: {fileID: 4505172391947724560, guid: ddc9cb00fb17142489a2885e79c42e7b, type: 3}
+  _itemDropPrefab: {fileID: 4505172391947724560, guid: ddc9cb00fb17142489a2885e79c42e7b, type: 3}
+  _itemSprite: {fileID: 21300000, guid: 1be2270ebde2f7d448e254a88252efdf, type: 3}
+  _itemLocalTransform:
+    Position: {x: 0.733, y: -0.251, z: 0.969}
+    Rotation: {x: 0, y: 0, z: 0}
+    Scale: {x: 0.3007617, y: 0.3007617, z: 0.3007617}
+  _throwablePrefab: {fileID: 723681329842560707, guid: 188060c6378e94c4982c2a979a03c95d, type: 3}

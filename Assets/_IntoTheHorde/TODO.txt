@@ -1,0 +1,13 @@
+- Dead zombies still attack
+- Selecting items that are not available
+
+// Fixed
+- Blood screen lasts too long
+- Game pause
+	- Can see crosshair
+	- Can still shoot
+- Sniper turn off spread when scoped in
+- Gun spread
+- Heal and switch weapon
+- Leaderboard page, line 30
+- Character stops falling when healing

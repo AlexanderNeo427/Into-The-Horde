@@ -1,0 +1,29 @@
+================= 3D Models ======================
+Modern weapons pack:		  Devassets.com
+Zombie models + animations:	  Mixamo.com
+Survivor models + animations: Mixamo.com
+PBR Shotgun Rigged:			  Asset store, Thiago3DG
+Survival Game Tools:		  Asset store, cookiepopworks.com
+Door Free Pack Aferar:		  Asset store, Andrey Ferar		
+Ammo Box:					  Asset store, Beatheart Creative Studio
+Grenade Pack Free:			  Asset store, Black Light Studio
+3D Game Props:				  Asset store, Wissan El Hajj
+Chainlink Fences:			  Asset store, Kobra Game Studios
+Free Steel Ladder Pack:		  Asset store, Surpent
+Unity Particle Pack:		  Asset store, Unity Technologies
+Dark Carnival Map			  Ripped from L4D2 game files
+Wine Glass & Bottle			  Asset store, Brick Project Studio
+
+=============== Fonts ===================
+Foul Fiend:		   1001fonts.com
+Exquisite Corpse:  1001fonts.com
+Dead Font Walking: Dafont.com
+
+=============== Sound ===================
+Gun sounds: Freesound.org
+
+=============== Misc ===================
+Skyboxes : Asset store, rpgwhitelock
+
+SceneField tool, so scenes can be assigned
+in the inspector like regular assets : Trisibo, https://github.com/Trisibo/Unity-Scene-Field
